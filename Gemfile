@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-ruby '2.3.0'
 
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 gem 'pg', group: :production
@@ -12,9 +11,9 @@ gem 'coffee-rails', '~> 4.2'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'jbuilder', '~> 2.5'
-gem 'materialize-sass'
 gem 'devise'
 gem 'paperclip'
+gem 'turbolinks', '~> 5.x'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'toastr-rails'
 gem 'activeadmin',         github: 'activeadmin'
