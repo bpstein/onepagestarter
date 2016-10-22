@@ -1,0 +1,53 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/benstein/Documents/Git/one-page-starter/app/controllers/pages_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/helpers/pages_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/benstein/Documents/Git/one-page-starter/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1477157701
+  }
+}
