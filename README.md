@@ -17,9 +17,9 @@ A live version of the project has been deployed [here](http://onepagestarter.her
 In future I would like to add Devise and OAuth functionality, as well as email/contact information collection capabilities. 
 
 ## Authors
-[Freebies Xpress](http://freebiesxpress.com/) - original PSD mockup
-[Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-agency) - front end code
-[Ben Stein](https://github.com/bpstein) - repurposed Rails 5 adjustments
+* [Freebies Xpress](http://freebiesxpress.com/) - original PSD mockup
+* [Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-agency) - front end code
+* [Ben Stein](https://github.com/bpstein) - repurposed Rails 5 adjustments
 
 ## Copyright
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the MIT license.
