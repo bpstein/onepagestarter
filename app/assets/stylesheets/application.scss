@@ -230,7 +230,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url(header-bg.jpg);
+  background-image: asset_url('header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
